@@ -51,6 +51,10 @@ Foram utilizadas as seguintes tabelas do banco de dados Contoso:
 <image src="https://github.com/bbraga99/ContosoRetail/blob/main/images/resultado%20categoria%20com%20maior%20lucro.jpg?raw=true"></image>
 
 <h3>5. Qual é o percentual de lucro por categoria?</h3>
+<image src="https://github.com/bbraga99/ContosoRetail/blob/main/images/%25%20de%20lucro%20por%20categoria.jpg?raw=true"> </image>
+
+<h3>Resultado: </h3>
+<image src="https://github.com/bbraga99/ContosoRetail/blob/main/images/resultado%20%25%20de%20lucro%20por%20categoria.jpg?raw=true"> </image>
 
 <h2>📈 Resultados e Insights</h1>
 - Os produtos mais vendidos não são necessariamente os mais lucrativos, reforçando a importância da análise de margem de lucro.
